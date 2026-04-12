@@ -1,0 +1,10 @@
+[package]
+name = "cuda-instinct-cortex"
+version = "0.1.0"
+edition = "2021"
+description = "Instinct processing system for FLUX VM — 16 instinct opcodes (0xB0-0xBF) producing behavioral decisions"
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
